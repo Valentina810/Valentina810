@@ -1,17 +1,17 @@
-<div id="header">
+<div id="header" align="center">
     <h3>Hi there 👋</h3>
     <h3>My name is Valentina</h3>
     <h4>I'm a Java Developer!</h4>
 </div>
 
-<div id="page" padding-left=100 px>
+<div id="page" align="left" padding-left=100 px>
     <li> ✔️ I'm currently working as a QA Auto
     <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
     <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
     <li> 🌱 Looking for development opportunities as a Java Developer
 </div>
 
-<div id="header">
+<div id="header" align="center">
     <h3>Contacts</h3>
     <a href="https://t.me/valentinakole">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
