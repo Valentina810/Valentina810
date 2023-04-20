@@ -33,7 +33,5 @@
 </div>
 <br>
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810&theme=default">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Valentina810&theme=default">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Valentina810&theme=default">
+    <img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">
 </div>
