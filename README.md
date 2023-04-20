@@ -4,7 +4,7 @@
     <h4>I'm a Java Developer!</h4>
 </div>
 
-<div id="page" align="left" padding-left=100 px>
+<div id="page" align="left" padding-left=500 px>
     <li> ✔️ I'm currently working as a QA Auto
     <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
     <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
