@@ -4,11 +4,15 @@
     <h4>I'm a Java Developer!</h4>
 </div>
 
-<div id="page" align="left" padding-left=1000 px>
-    <li> ✔️ I'm currently working as a QA Auto
-    <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
-    <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
-    <li> 🌱 Looking for development opportunities as a Java Developer
+<div>
+   <table width="100%" height="100%" align="center" valign="center">
+   <tr><td>
+         <li> ✔️ I'm currently working as a QA Auto
+         <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
+         <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
+         <li> 🌱 Looking for development opportunities as a Java Developer
+   </td></tr>
+   </table>
 </div>
 
 <div id="header" align="center">
