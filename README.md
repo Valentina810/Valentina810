@@ -10,7 +10,7 @@
          <li> ✔️ I'm currently working as a QA Auto
          <li> ✔️ I successfully completed the Java Developer course at Yandex Practicum
          <li> 🌱 I'm taking a course on algorithms and data structures for writing efficient code
-         <li> 🌱 Looking for development opportunities as a Java Developer
+         <li> 🌱 Looking for development opportunities as a Java Developer/QA Automation
    </td></tr>
    </table>
 </div>
