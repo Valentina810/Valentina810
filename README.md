@@ -40,6 +40,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810" alt=""/>
 </div>
 <div id="stat" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Valentina810" alt=""/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">-->
+    <img src="https://github-profile-trophy.vercel.app/?username=Valentina810" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Valentina810" alt=""/>
 </div>
