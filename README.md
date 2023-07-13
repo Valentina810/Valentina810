@@ -41,7 +41,8 @@
 </div>
 <div id="stat" align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">-->
-    <img src="https://github-profile-trophy.vercel.app/?username=Valentina810" alt=""/>
+    <!--<img src="https://leetcode-stats-six.vercel.app/api?username=Valentina810" alt=""/>-->
+    <img src="https://github.com/Valentina810/github-readme-activity-graph" alt=""/>
 </div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Valentina810" alt=""/>
