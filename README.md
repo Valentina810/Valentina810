@@ -1,16 +1,34 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h3>Привет! Меня зовут Валентина! 👋</h3>
+    Я имею опыт разработки на Java и  Spring Boot, занималась разработкой и поддержкой многомодульного фрейморка для автотестирования, а также вручную тестировала api, веб и мобильные приложения.
+</div>
 
-<!--
-**Valentina810/Valentina810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <br>
+    <a href="https://t.me/valentinakole">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="mailto:valentinavasileva34@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+    <code><img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
+    <code><img height="50" title="Spring" alt="Spring"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></code>
+    <code><img height="50" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"></code>
+    <code><img height="50" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+    <code><img height="50" title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"></code>
+    <code><img height="50" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"></code>
+    <code><img height="50" title="Bitbucket" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"></code>
+</div>
+<br>
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810" alt=""/>
+</div>
+<div id="stat" align="center">
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">-->
+    <!--<img src="https://leetcode-stats-six.vercel.app/api?username=Valentina810" alt=""/>-->
+    <img src="https://github.com/Valentina810/github-readme-activity-graph" alt=""/>
+</div>
