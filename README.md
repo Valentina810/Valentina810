@@ -4,7 +4,6 @@
 </div>
 
 <div id="header" align="center">
-    <br>
     <a href="https://t.me/valentinakole">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
@@ -14,9 +13,9 @@
         <a href="https://www.linkedin.com/in/valentina-kolesnikova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+<p><a href="https://javarush.com/users/2770825" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="JavaRush" width="40px"></a></p>
 </div>
 
-<br>
 <div align="center">
     <img height="40" width="40" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img height="40" width="40" title="Spring" alt="Spring"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -27,7 +26,6 @@
     <img height="40" width="40" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
     <img height="40" width="40" title="Bitbucket" alt="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
 </div>
-<br>
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810" alt=""/>
 </div>
