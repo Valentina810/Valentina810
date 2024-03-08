@@ -44,9 +44,6 @@
     <div id="stat" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810"
              alt=""/>
-        <a href="https://leetcode.com/Valentina810" target="_blank">
-            <img src="https://leetcode-stats-six.vercel.app/api?username=Valentina810">
-        </a>
     </div>
     <div id="stat" align="center">
         <!--<img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">-->
