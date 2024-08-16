@@ -1,7 +1,11 @@
 <div id="header" align="center">
     <h3>Привет! Меня зовут Валентина! 👋</h3>
     Я умею писать фреймворки для автоматизированного тестирования api, <br>веб и мобильных приложений, REST API на Java с
-    использованием Spring Boot, <br>PostgreSQL и MongoDB.
+    использованием Spring Boot, 
+    <br>
+    PostgreSQL и MongoDB.
+    <br>Также занимаюсь разработкой ботов для Telegram и навыков для Алисы и Маруси. 
+    <br>Рассмотрю сотрудничество или участие в интересных проектах, пишите в  
 </div>
 <br>
 <div align="center">
@@ -16,10 +20,10 @@
              alt="LinkedIn"/>
     </a>
     <br>
-    <a href="https://javarush.com/users/2770825" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="JavaRush"
-             width="40px">
-    </a>
+    <!-- <a href="https://javarush.com/users/2770825" target="_blank"> -->
+    <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="JavaRush" -->
+    <!--         width="40px"> -->
+    <!-- </a> -->
 </div>
 
 <div align="center">
