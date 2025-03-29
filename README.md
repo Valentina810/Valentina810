@@ -53,7 +53,7 @@
          src="https://github.com/Valentina810/Valentina810/blob/main/images/allure.png">
     <img height="40" width="40" title="appium" alt="appium"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/appium.png">
-    <img height="40" width="40" title="kaspresso" alt="kaspresso"
+    <img height="40" width="60" title="kaspresso" alt="kaspresso"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/kaspresso.png">
 </div>
 
