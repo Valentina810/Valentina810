@@ -27,17 +27,17 @@
 </div>
 
 <div align="center">
-    <img height="40" width="40" title="Java" alt="Java"
+    <img height="45" width="45" title="Java" alt="Java"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> :two: :one:
-    <img height="40" width="40" title="Spring" alt="Spring"
+    <img height="45" width="45" title="Spring" alt="Spring"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-    <img height="40" width="40" title="PostgreSQL" alt="PostgreSQL"
+    <img height="45" width="45" title="PostgreSQL" alt="PostgreSQL"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img height="40" width="40" title="MongoDB" alt="MongoDB"
+    <img height="45" width="45" title="MongoDB" alt="MongoDB"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img height="40" width="40" title="Docker" alt="Docker"
+    <img height="45" width="45" title="Docker" alt="Docker"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img height="40" width="40" title="Apache Kafka" alt="Apache Kafka"
+    <img height="45" width="45" title="Apache Kafka" alt="Apache Kafka"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
 <div align="center">
@@ -53,7 +53,7 @@
          src="https://github.com/Valentina810/Valentina810/blob/main/images/allure.png">
     <img height="40" width="40" title="appium" alt="appium"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/appium.png">
-    <img height="40" width="60" title="kaspresso" alt="kaspresso"
+    <img height="40" width="45" title="kaspresso" alt="kaspresso"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/kaspresso.png">
 </div>
 
