@@ -46,7 +46,7 @@
     <img height="40" width="40" title="jenkins" alt="jenkins"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
     <img height="40" width="40" title="allure" alt="allure"
-         src="https://github.com/Valentina810/Valentina810/blob/main//images/allure.png">
+         src="https://github.com/Valentina810/Valentina810/blob/main/images/allure.png">
 </div>
 
 <br>
