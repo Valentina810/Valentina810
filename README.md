@@ -28,7 +28,7 @@
 
 <div align="center">
     <img height="40" width="40" title="Java" alt="Java"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> :two: :one:
     <img height="40" width="40" title="Spring" alt="Spring"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
     <img height="40" width="40" title="PostgreSQL" alt="PostgreSQL"
@@ -39,11 +39,16 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img height="40" width="40" title="Apache Kafka" alt="Apache Kafka"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
-    <img height="40" width="40" title="Git" alt="Git"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+</div>
+<div align="center">
     <img height="40" width="40" title="Bitbucket" alt="Bitbucket"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
+    <img height="40" width="40" title="jenkins" alt="jenkins"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+    <img height="40" width="40" title="allure" alt="allure"
+         src="https://github.com/Valentina810/Valentina810/blob/main//images/allure.png">
 </div>
+
 <br>
     <div id="stat" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810"
