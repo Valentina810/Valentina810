@@ -41,12 +41,20 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
 </div>
 <div align="center">
+    <img height="40" width="40" title="Kotlin" alt="Kotlin"
+         src="https://github.com/Valentina810/Valentina810/blob/main/images/kotlin.png">
     <img height="40" width="40" title="Bitbucket" alt="Bitbucket"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
+    <img height="40" width="40" title="gitlab" alt="gitlab"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
     <img height="40" width="40" title="jenkins" alt="jenkins"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
     <img height="40" width="40" title="allure" alt="allure"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/allure.png">
+    <img height="40" width="40" title="appium" alt="appium"
+         src="https://github.com/Valentina810/Valentina810/blob/main/images/appium.png">
+    <img height="40" width="40" title="kaspresso" alt="kaspresso"
+         src="https://github.com/Valentina810/Valentina810/blob/main/images/kaspresso.png">
 </div>
 
 <br>
