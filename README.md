@@ -40,8 +40,6 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 <div align="center">
-    <img height="40" width="40" title="Kotlin" alt="Kotlin"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
     <img height="36" width="36" title="gitlab" alt="gitlab"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
     <img height="40" width="40" title="jenkins" alt="jenkins"
@@ -50,8 +48,6 @@
          src="https://github.com/Valentina810/Valentina810/blob/main/images/testops.ico">
     <img height="40" width="40" title="appium" alt="appium"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/appium.png">
-    <img height="36" width="45" title="kaspresso" alt="kaspresso"
-         src="https://github.com/Valentina810/Valentina810/blob/main/images/kaspresso.png">
 </div>
 
 <br>
