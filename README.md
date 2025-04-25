@@ -30,6 +30,8 @@
 <div align="center">
     <img height="45" width="45" title="Java" alt="Java"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> :two: :one:
+    <img height="40" width="40" title="Kotlin" alt="Kotlin"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
     <img height="45" width="45" title="Spring" alt="Spring"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
     <img height="45" width="45" title="PostgreSQL" alt="PostgreSQL"
