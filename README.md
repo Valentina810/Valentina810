@@ -27,27 +27,23 @@
 </div>
 
 <div align="center">
-    <img height="45" width="45" title="Java" alt="Java"
+    <img height="35" width="35" title="Java" alt="Java"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> :two: :one:
-    <img height="40" width="40" title="Kotlin" alt="Kotlin"
+    <img height="30" width="30" title="Kotlin" alt="Kotlin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-    <img height="45" width="45" title="Spring" alt="Spring"
+    <img height="35" width="35" title="Spring" alt="Spring"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-    <img height="45" width="45" title="PostgreSQL" alt="PostgreSQL"
+    <img height="35" width="35" title="PostgreSQL" alt="PostgreSQL"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-    <img height="45" width="45" title="MongoDB" alt="MongoDB"
+    <img height="35" width="35" title="MongoDB" alt="MongoDB"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img height="45" width="45" title="Docker" alt="Docker"
+    <img height="35" width="35" title="Docker" alt="Docker"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-<div align="center">
-    <img height="36" width="36" title="gitlab" alt="gitlab"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
-    <img height="40" width="40" title="jenkins" alt="jenkins"
+    <img height="30" width="30" title="jenkins" alt="jenkins"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
-    <img height="36" width="36" title="testops" alt="testops"
+    <img height="26" width="26" title="testops" alt="testops"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/testops.ico">
-    <img height="40" width="40" title="appium" alt="appium"
+    <img height="30" width="30" title="appium" alt="appium"
          src="https://github.com/Valentina810/Valentina810/blob/main/images/appium.png">
 </div>
 
