@@ -1,13 +1,16 @@
 <div id="header" align="center">
-    <h3>Привет! Меня зовут Валентина! 👋</h3>
-    Я умею писать фреймворки для автоматизированного тестирования api, <br>веб и мобильных приложений, REST API на Java с
-    использованием Spring Boot, 
-    <br>
-    PostgreSQL/MongoDB.<br>
-    Умею настраивать автоматизации для тестирования и могу починить поломавшийся<br> пайплайн в jenkins или написать новый.
-    <br>Занималась разработкой ботов для Telegram и навыков для Алисы и Маруси. 
-    <br>Рассмотрю сотрудничество или участие в интересных проектах, пишите в  
-</div>
+<h3>Hi everyone, my name is Valentina</h3>
+<table>
+  <tr>
+    <td>
+      My main areas of expertise include:<br>
+      - Developing frameworks for automated testing of web and mobile applications<br>
+      - Building and optimizing test environments and automation pipelines<br>
+      - Developing RESTful services (including with Spring Boot)<br>
+      - Creating Telegram bots and voice assistant skills<br>
+    </td>
+  </tr>
+</table>
 <br>
 <div align="center">
     <a href="https://t.me/valentinakole">
@@ -21,10 +24,6 @@
              alt="LinkedIn"/>
     </a>
     <br>
-    <!-- <a href="https://javarush.com/users/2770825" target="_blank"> -->
-    <!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="JavaRush" -->
-    <!--         width="40px"> -->
-    <!-- </a> -->
 </div>
 
 <div align="center">
@@ -56,9 +55,4 @@
     <div id="stat" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valentina810"
              alt=""/>
-    </div>
-    <div id="stat" align="center">
-        <!--<img src="https://github-readme-stats.vercel.app/api?username=Valentina810&show_icons=true">-->
-        <!--<img src="https://leetcode-stats-six.vercel.app/api?username=Valentina810" alt=""/>-->
-        <!--<img src="https://github.com/Valentina810/github-readme-activity-graph" alt=""/>-->
     </div>
